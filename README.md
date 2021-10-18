@@ -22,3 +22,9 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## screenshots
+
+![Home](screenshots/home.png)
+
+![Basket](screenshots/basket.png)
